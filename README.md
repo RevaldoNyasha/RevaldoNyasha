@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying computer science
 - 💞️ I’m looking to collaborate on ...{}
 - 📫 reach me at nyasharevaldo@gmail.com
-- ⚡ Reach the best version of your self
+- ⚡ Become the best version of yourself
 
 <!---
 RevaldoNyasha/RevaldoNyasha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
