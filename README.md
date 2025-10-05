@@ -15,7 +15,6 @@ I'm a passionate **Computer Science student** driven by curiosity, innovation, a
 ---
 
 ### 🧠 Interests & Focus
-- Artificial Intelligence & Machine Learning  
 - Web & Mobile App Development  
 - Cloud & Distributed Systems  
 - Open Source and Community Projects  
