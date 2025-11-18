@@ -1,24 +1,24 @@
-# 👋 Hi there, I'm Revaldo Nyasha
+#  Hi there, I'm Revaldo Nyasha
 
-🎯 **Focused | Curious | Growth-Oriented**
+ **Focused | Curious | Growth-Oriented**
 
 I'm a passionate **Computer Science student** driven by curiosity, innovation, and continuous learning. I enjoy solving real-world problems through technology and building impactful, user-focused solutions.
 
 ---
 
-### 💡 About Me
-- 🎓 Currently studying **Computer Science**
-- 💻 Exploring **AI**, **backend web development and preparing for cloud engineering**
-- 📧 Reach me at: **nyasharevaldo@gmail.com**
-- ⚡ Motto: *“Become the best version of yourself.”*
+###  About Me
+-  Currently studying **Computer Science**
+-  Exploring  **backend web development and preparing for cloud engineering**
+-  Reach me at: **nyasharevaldo@gmail.com**
+-  Motto: *“Become the best version of yourself.”*
 
 ---
 
-### 🧠 Interests & Focus
+###  Interests & Focus
 - Web & Mobile App Development  
 - Cloud & Distributed Systems  
 - Open Source and Community Projects  
 
 ---
 
-⭐ *“Feel free to view my previous projects and vist my youtube channel to see them in action Youtube channel : https://youtube.com/@rns-show-v3s?si=6DkDGeNOMudttmns.”*  
+ *“Feel free to view my previous projects and vist my youtube channel to see them in action Youtube channel : https://youtube.com/@rns-show-v3s?si=6DkDGeNOMudttmns.”*  
