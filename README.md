@@ -21,4 +21,4 @@ I'm a passionate **Computer Science student** driven by curiosity, innovation, a
 
 ---
 
- *“Feel free to view my previous projects and vist my youtube channel to see them in action Youtube channel : https://youtube.com/@rns-show-v3s?si=6DkDGeNOMudttmns.”*  
+ *“Feel free to view my previous projects and vist my youtube channel to see them in action Youtube channel : https://youtube.com/@thursday-rn?si=TPkPscD0ca8AxmmZ”*  
