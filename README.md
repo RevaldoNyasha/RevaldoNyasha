@@ -8,7 +8,7 @@ I'm a passionate **Computer Science student** driven by curiosity, innovation, a
 
 ###  About Me
 -  Currently studying **Computer Science**
--  Exploring  **backend web development and preparing for cloud engineering**
+-  Exploring  **web dev , AI engineering and preparing for cloud engineering**
 -  Reach me at: **nyasharevaldo@gmail.com**
 -  Motto: *“Become the best version of yourself.”*
 
