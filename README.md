@@ -15,10 +15,10 @@ I'm a passionate **Computer Science student** driven by curiosity, innovation, a
 ---
 
 ###  Interests & Focus
-- Web & Mobile App Development  
-- Cloud & Distributed Systems  
-- Open Source and Community Projects  
+ai engineering
+python fastapi
+react 
 
 ---
 
- *“Feel free to view my previous projects and vist my youtube channel to see them in action Youtube channel : https://youtube.com/@thursday-rn?si=TPkPscD0ca8AxmmZ”*  
+
